@@ -150,9 +150,6 @@
 </plugins>
 	</build>
 
-</project>
-
-
 
 <!--</snapshotRepository>
         <sonar.login>admin</sonar.login>
@@ -160,4 +157,5 @@
 	<url>http://54.255.174.111:8081/repository/flipkart-snapshot/</url>
 
 </snapshotRepository>	-->
+
 </project>

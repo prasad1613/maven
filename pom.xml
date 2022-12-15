@@ -153,7 +153,7 @@
 </project>
 
 
-</project>
+
      <snapshotRepository>
         <sonar.login>admin</sonar.login>
         <sonar.password>admin</sonar.password>
